@@ -1,0 +1,22 @@
+tensorflow
+pandas
+numpy
+matplotlib
+plotly
+seaborn
+scikit-learn
+pymongo
+from_root
+dill
+certifi
+PyYAML
+boto3
+mypy-boto3-s3
+uvicorn
+jinja2
+imblearn
+-e .
+from_root
+Flask
+Flask-Cors
+joblib
